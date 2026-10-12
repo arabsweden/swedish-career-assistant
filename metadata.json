@@ -1,0 +1,6 @@
+{
+  "name": "Swedish Career Assistant",
+  "description": "An AI-powered assistant to help newcomers find jobs in Sweden by building CVs, searching for jobs, writing cover letters, and preparing for interviews. Now available in English and Arabic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
